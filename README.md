@@ -1,0 +1,1 @@
+# client-and-analytic-module-full-active-in-Azure-VM
